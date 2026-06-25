@@ -1,4 +1,4 @@
 name=群成员监控
 author=Operit
-version=1.0.0
+version=2.0.0
 desc=监控指定群聊的成员变化，UI面板控制开关
